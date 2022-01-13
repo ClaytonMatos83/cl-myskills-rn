@@ -55,7 +55,7 @@ export function Home(){
     <View style={styles.container}>
         
       <Text style={styles.title}>
-          Welcome, Clayton
+          Welcome, Clayton Matos
         </Text>
 
         <Text style={styles.greetings}>
